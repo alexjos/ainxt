@@ -1,0 +1,2 @@
+# ainxt
+AI Blog
